@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Justin. I study software engineering at North Carolina State University, particularly how people navigate, comprehend, and compare code for learning and for reuse.
+I'm Justin, a PhD candidate at North Carolina State University with a focus on software engineering communities and tools. In particular, I'm interested in how developers navigate, comprehend, and compare code for learning and for reuse, whether they're experts or novices, professionals or hobbyists, scientists or engineers or anything else.
+
+In the past, I've been an intern at [Phase Change Software](https://github.com/PhaseChangeSoftware) (designing research studies) and [Google](https://github.com/Google) (contributing internal refactoring tools through Clang, studying CI).
+
+I'm currently focusing on my PhD research (IRBs means private repositories I can't show off), but I'm interested in contributing to OSS projects, too. In free time these days, I'll mess around with the Spotify API, explore Rust, or read some old books by the lake.
+
+Want to talk? You can reach out over email at jamiddl2@ncsu.edu or Twitter at @Dysosmia.
